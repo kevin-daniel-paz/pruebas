@@ -1,4 +1,3 @@
 # Mi primer nuevo archivo
-Primera Actualizacion de raedme/n 
-
+Primera Actualizacion de raedme<br>
 Segunda Actualizacion de Readme
